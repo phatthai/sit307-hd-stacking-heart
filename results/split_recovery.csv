@@ -1,0 +1,6 @@
+Criterion,Seeds
+Seeds scanned,20000
+Test set = 95 negatives / 110 positives,986
++ NB confusion matrix identical to paper,6
++ LR confusion matrix identical to paper,1
++ KNN (k = 5) confusion matrix identical to paper,0
