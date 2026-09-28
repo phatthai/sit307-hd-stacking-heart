@@ -1,0 +1,7 @@
+Result,Protocol,Accuracy,Precision,Recall,F1,AUC
+"Paper, stacking (reported)",Single record-level split,0.9853,1.0,0.9727,0.9861,0.988
+"Reproduction, stacking",Recovered split (seed 2258),1.0,1.0,1.0,1.0,1.0
+"Reproduction, stacking",Mean of 100 record-level splits,0.9972,0.9972,0.9974,0.9973,0.9998
+"Paper pipeline B0, stacking","Patient-level CV, 50 folds",0.8102,0.813,0.85,0.8294,0.896
+Best single paper model (patient-level),"Patient-level CV, 50 folds",0.8426,0.8429,0.8774,0.8579,0.9135
+Proposed LA-DPS (A3),"Patient-level CV, 50 folds",0.8427,0.8409,0.8811,0.8586,0.9146
