@@ -1,7 +1,0 @@
-,Selected in % of folds,Chosen first (folds),Most frequent tuned params
-LR,96.0,42,"{""C"": 0.3}"
-DT,32.0,0,"{""max_depth"": 5, ""min_samples_leaf"": 10}"
-RF,94.0,0,"{""max_features"": ""sqrt"", ""min_samples_leaf"": 5}"
-XGB,54.0,3,"{""max_depth"": 2, ""n_estimators"": 100}"
-NB,62.0,4,"{""var_smoothing"": 0.1}"
-KNN,20.0,1,"{""n_neighbors"": 21, ""weights"": ""distance""}"
